@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatapasT&layout=donut&hide=Mathematica,HTML,PowerShell,Shell,CSS,Dockerfile&size_weight=0.8&count_weight=0.2)](https://github.com/SatapasT/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatapasT&layout=donut&hide=Mathematica,HTML,PowerShell,Shell,CSS,Dockerfile&size_weight=0.1&count_weight=0.9)](https://github.com/SatapasT/github-readme-stats)
