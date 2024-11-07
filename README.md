@@ -1,4 +1,4 @@
-Heyo, I'm Satapas. I'm a current undergraduate Computer Science student at Durham University.
+Heyo, I'm a undergraduate Computer Science student at Durham University.
 
 I work on random projects in my spare time.
 
